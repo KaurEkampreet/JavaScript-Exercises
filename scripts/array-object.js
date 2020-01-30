@@ -1,3 +1,10 @@
+/*
+ * Ekampreet Kaur
+ * 01/15/2020
+ * array-object.js
+ *
+*/
+
 let arr = [-1, 5, "cat", false, 10.2, true, "dog"];
 
 function toObject(array) {
